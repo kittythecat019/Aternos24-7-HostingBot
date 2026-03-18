@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "choichung_vn.aternos.me",
+    "ip": "gunnel.aternos.host",
     "port": 19013,
     "version": "",
     "try-creative": false
